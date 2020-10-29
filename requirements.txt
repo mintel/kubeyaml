@@ -1,0 +1,4 @@
+pyyaml
+ruamel.yaml
+pytest
+hypothesis==3.88.3
